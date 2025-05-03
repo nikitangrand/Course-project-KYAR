@@ -6,7 +6,7 @@ document.addEventListener('DOMContentLoaded', function() {
         const linkPage = link.href.split('/').pop();
         
         if (currentPage === linkPage || 
-           (currentPage === 'main.html' && linkPage === '')) {
+           (currentPage === 'index.html' && linkPage === '')) {
             link.classList.add('active');
         }
     });
