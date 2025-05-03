@@ -89,6 +89,7 @@ h4 {
 .btn--highlight {
   background-color: white;
   color: #000000;
+  border: 1px solid white;
 }
 .btn--highlight:hover {
   background-color: #000000;
