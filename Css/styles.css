@@ -87,15 +87,15 @@ h4 {
 }
 
 .btn--highlight {
-  background-color: #000000;
+  background-color: white;
 }
 .btn--highlight:hover {
-  background-color: white;
-  color: #000000;
+  background-color: #000000;
+  color: white;
 }
 .btn--highlight:active {
-  background-color: white;
-  color: #000000;
+  background-color: #000000;
+  color: white;
 }
 
 .btn--contact {
