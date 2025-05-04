@@ -554,7 +554,8 @@ h4 {
   .highlight-title {
     font-size: 28px;
     width: 250px;
-    margin-left: 80px;
+    margin-left: 55px;
+    margin-bottom: 10px;
   }
   .info-section {
     grid-template-columns: 1fr;
