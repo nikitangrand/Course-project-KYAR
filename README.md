@@ -24,4 +24,4 @@
 ## 🚀 Запуск проекта
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/your-username/to-rent.git
+   git clone https://github.com/your-username/Course-project-KYAR.git
